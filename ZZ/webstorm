@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?list=PLcxinMQ6yB5Q0u9v8bOw1jZ7PyAD4vrfS&v=jpgxzYl0Dj4&feature=youtu.be
+Инструкция по сбросу пробного периода:
+- Зайти в File → Settings → Plugins
+- Кликнуть на шестерёнку → Manage Plugin Repositories
+- Добавить адрес https://plugins.zhile.io и нажать ОК
+- В поле поиска плагинов ввести IDE Eval Reset и установить плагин
+- В основном меню кликнуть на Help → Eval Reset → Reset → Yes
+- Перезагрузить IDE
+- Радоваться новому месяцу
